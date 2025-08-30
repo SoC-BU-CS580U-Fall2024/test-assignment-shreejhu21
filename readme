@@ -1,0 +1,5 @@
+compile: gcc hello.c -o hello
+output: ./hello
+
+shreejha sukanthan
+b01105891
